@@ -1,3 +1,6 @@
-Unit Test¸¦ ½ÃÀÛÇÏ±â
+Unit Test ì‹œì‘í•˜ê¸°
 ====
-¼ø¼ö Java ±â¹İÀÇ Hello Unit Tests
+ìë°”ë¡œ Unit Tests ì‹œì‘í•˜ê¸°
+
+1. Hello Unit Tests
+2. Learning JUnit Assert
