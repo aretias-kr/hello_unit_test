@@ -1,0 +1,8 @@
+/**
+ * @author JeongInn
+ */
+public class HelloWorld {
+	public String hello() {
+		return "Hello World!";
+	}
+}
